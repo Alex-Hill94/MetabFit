@@ -1,0 +1,101 @@
+##TITLE= Audit trail, TopSpin 4.4.0.b.11
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH & Co. KG
+##OWNER= nmrsu
+$$ C:/nmrdata/liverpool/20240119_D24_RERUN_3/18/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2024-01-17T14:53:27.615+0000>,<nmrsu>,<DESKTOP-TQKJUBF>,<cprserver>,<TopSpin 4.4.0.b.11>,
+      <changed parameter F1 O1P to 4.817>)
+$$ C:/Bruker/TopSpin4.4.0.b.11/prog/curdir/changer/inmrchanger/Jan17-2024-1355-liverpool/40/40.80/data/nmr/20240117_D22_Check/21/audita.txt
+(   2,<2024-01-17T14:54:00.685+0000>,<nmrsu>,<DESKTOP-TQKJUBF>,<cprserver>,<TopSpin 4.4.0.b.11>,
+      <changed parameter F1 NS to 2>)
+$$ C:/Bruker/TopSpin4.4.0.b.11/prog/curdir/changer/inmrchanger/Jan17-2024-1355-liverpool/40/40.81/data/nmr/20240117_D22_Check/22/audita.txt
+(   3,<2024-01-17T14:54:34.505+0000>,<nmrsu>,<DESKTOP-TQKJUBF>,<cprserver>,<TopSpin 4.4.0.b.11>,
+      <changed parameter F1 NS to 4>)
+$$ C:/Bruker/TopSpin4.4.0.b.11/prog/curdir/changer/inmrchanger/Jan17-2024-1355-liverpool/40/40.82/data/nmr/20240117_D22_Check/23/audita.txt
+(   4,<2024-01-17T14:54:52.610+0000>,<nmrsu>,<DESKTOP-TQKJUBF>,<cprserver>,<TopSpin 4.4.0.b.11>,
+      <changed parameter F1 NS to 8>)
+$$ C:/Bruker/TopSpin4.4.0.b.11/prog/curdir/changer/inmrchanger/Jan17-2024-1355-liverpool/40/40.83/data/nmr/20240117_D22_Check/24/audita.txt
+(   5,<2024-01-17T14:55:44.608+0000>,<nmrsu>,<DESKTOP-TQKJUBF>,<cprserver>,<TopSpin 4.4.0.b.11>,
+      <changed parameter F1 NS to 16>)
+$$ C:/Bruker/TopSpin4.4.0.b.11/prog/curdir/changer/inmrchanger/Jan17-2024-1355-liverpool/40/40.84/data/nmr/20240117_D22_Check/25/audita.txt
+(   6,<2024-01-17T14:56:15.865+0000>,<nmrsu>,<DESKTOP-TQKJUBF>,<cprserver>,<TopSpin 4.4.0.b.11>,
+      <changed parameter F1 NS to 32>)
+$$ C:/Bruker/TopSpin4.4.0.b.11/prog/curdir/changer/inmrchanger/Jan17-2024-1355-liverpool/40/40.86/data/nmr/20240117_D22_Check/26/audita.txt
+(   7,<2024-01-17T14:57:04.114+0000>,<nmrsu>,<DESKTOP-TQKJUBF>,<cprserver>,<TopSpin 4.4.0.b.11>,
+      <changed parameter F1 NS to 64>)
+$$ C:/Bruker/TopSpin4.4.0.b.11/prog/curdir/changer/inmrchanger/Jan17-2024-1355-liverpool/40/40.87/data/nmr/20240117_D22_Check/27/audita.txt
+(   8,<2024-01-17T14:57:32.944+0000>,<nmrsu>,<DESKTOP-TQKJUBF>,<cprserver>,<TopSpin 4.4.0.b.11>,
+      <changed parameter F1 NS to 128>)
+$$ C:/Bruker/TopSpin4.4.0.b.11/prog/curdir/changer/inmrchanger/Jan17-2024-1355-liverpool/40/40.88/data/nmr/20240117_D22_Check/28/audita.txt
+(   9,<2024-01-17T14:57:57.537+0000>,<nmrsu>,<DESKTOP-TQKJUBF>,<cprserver>,<TopSpin 4.4.0.b.11>,
+      <changed parameter F1 NS to 256>)
+$$ C:/Bruker/TopSpin4.4.0.b.11/prog/curdir/changer/inmrchanger/Jan17-2024-1355-liverpool/42/42.163/data/nmr/20240117_D24_RERUN_1/18/audita.txt
+(  10,<2024-01-17T15:33:53.386+0000>,<nmrsu>,<DESKTOP-TQKJUBF>,<cprserver>,<TopSpin 4.4.0.b.11>,
+      <changed parameter F1 O1P to 4.710>)
+$$ C:/nmrdata/liverpool/20240119_D24_RERUN_3/18/audita.txt
+(  11,<2024-01-19T08:10:28.163+0000>,<DESKTOP-TQKJUBF\nmrsu>,<DESKTOP-TQKJUBF>,<go4>,<TopSpin 4.4.0.b.11>,
+      <acquisition in progress>)
+(  12,<2024-01-19T08:25:52.082+0000>,<DESKTOP-TQKJUBF\nmrsu>,<DESKTOP-TQKJUBF>,<go4>,<TopSpin 4.4.0.b.11>,
+      <created by zg on 'Fourier' (DESKTOP-TQKJUBF) by user 'DESKTOP-TQKJUBF\nmrsu'
+       on data set with UUID '3496c77e-b6a2-11ee-be0b-0000ad74e112'
+       started at 2024-01-19 08:10:28.163 +0000, POWCHK enabled, PULCHK disabled,
+       completed at 2024-01-19 08:25:52.074 +0000
+       configuration hash MD5:
+       6F B0 80 4A 2D 6F C8 2D AA 24 15 62 EF FD 55 2E
+       double data hash MD5: 8K
+       E9 4D 83 4C A0 FA BB E1 B4 16 A1 2B F7 CC 20 E2>)
+(  13,<2024-01-19T08:25:51.827+0000>,<nmrsu>,<DESKTOP-TQKJUBF>,<xwish3>,<TopSpin 4.4.0.b.11>,
+      <ICON-NMR User ID: liverpool
+       double data hash MD5: 8K
+       E9 4D 83 4C A0 FA BB E1 B4 16 A1 2B F7 CC 20 E2>)
+(  14,<2024-01-19T08:25:52.770+0000>,<nmrsu/liverpool>,<DESKTOP-TQKJUBF>,<proc1d>,<TopSpin 4.4.0.b.11>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 32K 
+       data hash MD5: 32K
+       E9 DF 38 F6 EC 46 A9 E8 27 B3 DE 6F E9 36 3A AA>)
+$$ C:/nmrdata/liverpool/20240119_D24_RERUN_3/18/pdata/1/auditp.txt
+(  15,<2024-01-19T08:25:53.093+0000>,<nmrsu/liverpool>,<DESKTOP-TQKJUBF>,<proc1d>,<TopSpin 4.4.0.b.11>,
+      <apk0 
+       data hash MD5: 32K
+       F1 7B 43 70 66 FC 0F 35 D4 1F 31 52 CF E3 D9 65>)
+(  16,<2024-01-19T08:25:53.198+0000>,<nmrsu/liverpool>,<DESKTOP-TQKJUBF>,<proc1d>,<TopSpin 4.4.0.b.11>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       4B E7 42 14 E1 E5 F3 AF 55 AA B7 DE 6A 40 E3 DB>)
+(  17,<2024-01-19T08:25:53.254+0000>,<nmrsu/liverpool>,<DESKTOP-TQKJUBF>,<peak>,<TopSpin 4.4.0.b.11>,
+      <1D Peak picking
+       data hash MD5: 32K
+       4B E7 42 14 E1 E5 F3 AF 55 AA B7 DE 6A 40 E3 DB>)
+(  18,<2024-01-19T08:25:53.375+0000>,<nmrsu/liverpool>,<DESKTOP-TQKJUBF>,<xwish3>,<TopSpin 4.4.0.b.11>,
+      <ICON-NMR User ID: liverpool
+       data hash MD5: 32K
+       4B E7 42 14 E1 E5 F3 AF 55 AA B7 DE 6A 40 E3 DB>)
+$$ C:/Users/mark.howard/NMRDATA_LOCAL/BRUKER_DATA/F80_APPS_LAB/ALEXH_RERUNS/20240119_RERUN_3/20240119_D24_RERUN_3/18/pdata/1/auditp.txt
+(  19,<2024-01-24T08:24:14.527+0000>,<INTRA-BRKR-CORP\Mark.Howard>,<NBCOV01-D6L64B3>,<cprserver>,<TopSpin 4.4.0.b.11>,
+      <changed parameter F1 MI to 0.2>)
+(  20,<2024-01-24T08:24:14.660+0000>,<INTRA-BRKR-CORP\Mark.Howard>,<NBCOV01-D6L64B3>,<peak>,<TopSpin 4.4.0.b.11>,
+      <1D Peak picking
+       data hash MD5: 32K
+       4B E7 42 14 E1 E5 F3 AF 55 AA B7 DE 6A 40 E3 DB>)
+(  21,<2024-01-24T08:24:21.033+0000>,<INTRA-BRKR-CORP\Mark.Howard>,<NBCOV01-D6L64B3>,<cprserver>,<TopSpin 4.4.0.b.11>,
+      <changed parameter F1 MI to 20>)
+(  22,<2024-01-24T08:24:21.120+0000>,<INTRA-BRKR-CORP\Mark.Howard>,<NBCOV01-D6L64B3>,<peak>,<TopSpin 4.4.0.b.11>,
+      <1D Peak picking
+       data hash MD5: 32K
+       4B E7 42 14 E1 E5 F3 AF 55 AA B7 DE 6A 40 E3 DB>)
+(  23,<2024-01-24T08:24:23.617+0000>,<INTRA-BRKR-CORP\Mark.Howard>,<NBCOV01-D6L64B3>,<cprserver>,<TopSpin 4.4.0.b.11>,
+      <changed parameter F1 MI to 0.2>)
+(  24,<2024-01-24T08:24:23.830+0000>,<INTRA-BRKR-CORP\Mark.Howard>,<NBCOV01-D6L64B3>,<peak>,<TopSpin 4.4.0.b.11>,
+      <1D Peak picking
+       data hash MD5: 32K
+       4B E7 42 14 E1 E5 F3 AF 55 AA B7 DE 6A 40 E3 DB>)
+$$ /Users/alexhill/Desktop/Metabolomics/Rerun_Data/20240119_RERUN_3/20240119_D24_RERUN_3/18/pdata/1/auditp.txt
+(  25,<2024-04-23T11:18:34.509+0100>,<alexhill>,<Alexs-MacBook-Air-2.local>,<proc1d>,<TopSpin 4.3.0>,
+      <abs ABSG = 5 
+       data hash MD5: 32K
+       7B 92 C8 FB A7 2E 17 43 8F 42 5C FB A1 65 43 63>)
+##END=
+
+$$ hash MD5
+$$ 63 87 D2 65 FB F3 41 68 DC 4D C7 A1 BF 94 EA 9F

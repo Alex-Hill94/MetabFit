@@ -1,0 +1,22 @@
+{
+  "name": "CurveFitModule",
+  "version": "0.0.1",
+  "author": "Alexander Hill",
+  "entryPoint": "curveFit.CurveFitPlugin:CurveFitModule",
+  "type": "",
+  "description": "A plugin to show a CCPN module",
+  "enabledByDefault": true,
+  "loadLevel": 3,
+  "menuTitle": "Curve Fit Module",
+  "tags": [],
+  "menuIcon": "metabfit_icon.png",
+
+  "_metadata": {
+    "jsonVersion": 3.0,
+    "className": "PluginDescriptor",
+    "classVersion": 1.0,
+    "user": "luca",
+    "lastPath": "",
+    "timestamp": "Thu Aug  7 13:21:42 2025"
+  }
+}
