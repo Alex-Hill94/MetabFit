@@ -1,7 +1,7 @@
 # MetabFit — NMR metabolite curve fitting
 
 <p align="center">
-  <img src="assets/metabfit_icon.png" alt="MetabFit: experimental and fitted NMR spectra" width="220">
+  <img src="Assets/metabfit_icon.png" alt="MetabFit: experimental and fitted NMR spectra" width="220">
 </p>
 
 MetabFit is a CCPN plugin for fitting simulated metabolite reference spectra to experimental one-dimensional NMR data. It generates reference spectra from NEF spin-system data, optimises their amplitude, chemical-shift offset, and linewidth, and overlays the results on the experimental spectrum.
@@ -53,7 +53,7 @@ Obtain reference data separately from [CCPN CASMDB](https://github.com/ccpnmr/CA
 
 The Python module and [plugin descriptor](curveFit/plugin_descriptor.json) are required to load the plugin. The icon is referenced by the descriptor.
 
-![CCPN Preferences showing the plugin path setting](assets/PreferencesLocation.png)
+![CCPN Preferences showing the plugin path setting](Assets/PreferencesLocation.png)
 
 ## Quick start
 
@@ -103,7 +103,7 @@ These windows are starting points from the implementation, not universal assignm
 
 ## Adding or changing metabolites
 
-Edit `metabolite_config` near the start of [CurveFitPlugin.py](assets/CurveFitPlugin.py). Each entry defines a display name, NEF spectrum ID, fitting window, and unique widget attribute:
+Edit `metabolite_config` near the start of [CurveFitPlugin.py](Assets/CurveFitPlugin.py). Each entry defines a display name, NEF spectrum ID, fitting window, and unique widget attribute:
 
 ```python
 'Lactate': {
