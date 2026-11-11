@@ -4,7 +4,7 @@
   <img src="Assets/metabfit_icon.png" alt="MetabFit: experimental and fitted NMR spectra" width="220">
 </p>
 
-MetabFit fits simulated metabolite references to experimental 1D NMR spectra inside CCPN. It reads NEF spin-system data and optimises each selected reference's amplitude, chemical-shift offset, and linewidth independently.
+MetabFit fits simulated metabolite references to experimental 1D NMR spectra inside CcpNmr Analysis (CCPN). It reads NEF spin-system data and optimises each selected reference's amplitude, chemical-shift offset, and linewidth independently.
 
 Developed for **CCPN 3.4.0** by **Alexander Hill and Morgan Hayward**. Plugin version: **0.0.1**.
 
@@ -37,7 +37,7 @@ Download reference data from [CCPN CASMDB](https://github.com/ccpnmr/CASMDB). St
 ## Installation
 
 1. Download or clone this repository.
-2. Open CCPN AnalysisAssign. In **Preferences**, set **Plugins path** to the directory where you want to keep your plugins.
+2. Open one of the CCPN programs, such as AnalysisAssign. In **Preferences**, set **Plugins path** to the directory where you want to keep your plugins.
 
    ![CCPN Preferences showing the plugin path setting](Assets/PreferencesLocation.png)
 
