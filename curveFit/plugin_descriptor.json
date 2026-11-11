@@ -1,13 +1,13 @@
 {
-  "name": "CurveFitModule",
+  "name": "MetabFit",
   "version": "0.0.1",
   "author": "Alexander Hill",
-  "entryPoint": "curveFit.CurveFitPlugin:CurveFitModule",
+  "entryPoint": "curveFit.MetabFitPlugin:MetabFit",
   "type": "",
-  "description": "A plugin to show a CCPN module",
+  "description": "MetabFit: fit simulated metabolite references to experimental 1D NMR spectra.",
   "enabledByDefault": true,
   "loadLevel": 3,
-  "menuTitle": "Curve Fit Module",
+  "menuTitle": "MetabFit",
   "tags": [],
   "menuIcon": "metabfit_icon.png",
 
